@@ -115,6 +115,18 @@ app.patch('/todos/:id/done', checksExistsUserAccount, (request, response) => {
 
 app.delete('/todos/:id', checksExistsUserAccount, (request, response) => {
   
+  const { id } = request.params;
+  const { user } = request;
+
+  const todoExists = user.todos.find(todo => todo.id === id);
+
+  if (!todoExists) {
+    return res.status(404).json({ message: "Todo doesn't exists"});
+  }
+
+  user.todos.splice(todoExists, 1);
+
+  return response.status(200).json({message: "Excluido com sucesso!"});
   
 });
 
