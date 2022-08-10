@@ -12,9 +12,9 @@ const users = [];
 function checksExistsUserAccount(request, response, next) {
   const { username } = request.headers;
 
-  const userExists  = users.find(user => user.username === username);
+  const userExists = users.find(user => user.username === username);
   
-  if(!userExists ) {
+  if(!userExists) {
     return response.status(400).json({ error: "User not found!" });
   }
 
