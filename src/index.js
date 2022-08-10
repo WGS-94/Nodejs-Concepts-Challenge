@@ -49,14 +49,14 @@ app.get("/users", checksExistsUserAccount, (request, response) => {
   
   const { user } = request;
 
-  return response.json(user);
+  return response.status(200).json(user);
 });
 
 app.get('/todos', checksExistsUserAccount, (request, response) => {
   
   const { user } = request;
 
-  return response.json(user.todos);
+  return response.status(200).json(user.todos);
 });
 
 app.post('/todos', checksExistsUserAccount, (request, response) => {
