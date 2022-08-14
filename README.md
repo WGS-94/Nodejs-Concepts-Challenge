@@ -55,7 +55,7 @@ Contudo, este é um projeto desenvolvido como Desafio do curso Ignite NodeJS da 
 <img src="./Demonstrations/Demonstration06-Rota-Delete-Todo.jpg" alt="Demostração Rota de deletar todo">
 
 
-## ✍ Author
+<!-- ## ✍ Author
 <img alt="PabloXT14" title="PabloXT14" src="https://avatars.githubusercontent.com/u/71723595?s=400&u=f7a1ec0c2e1f7cd1acf79f61043dbc75b1079de6&v=4" width="100">
 <p>
     Made with 💜 by PabloXT14
@@ -67,4 +67,4 @@ Contudo, este é um projeto desenvolvido como Desafio do curso Ignite NodeJS da 
     <a href="mailto:pabloxt14@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Pablo Alan" />
     </a>
-</p>
+</p> -->
