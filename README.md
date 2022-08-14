@@ -30,7 +30,7 @@ Contudo, este é um projeto desenvolvido como Desafio do curso Ignite NodeJS da 
 
 
 ## Routes
-
+<!-- 
 ### /users(POST)
 * Demonstration:
 <img src="./Demonstrations/Demonstration01-Rota-Create-Account.jpg" alt="Demostração Rota de criação de usuário">
@@ -54,7 +54,7 @@ Contudo, este é um projeto desenvolvido como Desafio do curso Ignite NodeJS da 
 ### /todos/:id(DELETE)
 * Demonstration:
 <img src="./Demonstrations/Demonstration06-Rota-Delete-Todo.jpg" alt="Demostração Rota de deletar todo">
-
+ -->
 
 <!-- ## ✍ Author
 <img alt="PabloXT14" title="PabloXT14" src="https://avatars.githubusercontent.com/u/71723595?s=400&u=f7a1ec0c2e1f7cd1acf79f61043dbc75b1079de6&v=4" width="100">
@@ -70,6 +70,3 @@ Contudo, este é um projeto desenvolvido como Desafio do curso Ignite NodeJS da 
     </a>
 <<<<<<< HEAD
 </p> -->
-=======
-</p>
->>>>>>> 7b79d6dd5a5fe4d50c0e6efbd16a3f0c64586674
