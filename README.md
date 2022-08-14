@@ -1,4 +1,5 @@
-# Conceitos do NodeJS
+# Conceitos do Node JS
+
 Esta é uma aplicação NodeJS que simula a implementação de uma Todo List(lista de tarefas) na parte do Back-End, onde realiza-se o CRUD (Create, Read, Update, Delete) dos todos.
 
 Os objetivos principais foram treinar e aprimorar conceitos bases do NodeJS com a Biblioteca Express, como `criação de rotas`, `recebimento e envio de parâmetros do tipo Route, Query e Body` e `utilização de Middlewares`.
@@ -67,4 +68,8 @@ Contudo, este é um projeto desenvolvido como Desafio do curso Ignite NodeJS da 
     <a href="mailto:pabloxt14@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Pablo Alan" />
     </a>
+<<<<<<< HEAD
 </p> -->
+=======
+</p>
+>>>>>>> 7b79d6dd5a5fe4d50c0e6efbd16a3f0c64586674
