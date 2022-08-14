@@ -1,6 +1,16 @@
 # Conceitos do Node JS
 
-Esta é uma aplicação NodeJS que simula a implementação de uma Todo List(lista de tarefas) na parte do Back-End, onde realiza-se o CRUD (Create, Read, Update, Delete) dos todos.
+Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no Node.js!
+
+Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
+
+- Criar um novo *todo*;
+- Listar todos os *todos*;
+- Alterar o `title` e `deadline` de um *todo* existente;
+- Marcar um *todo* como feito;
+- Excluir um *todo*;
+
+Esta aplicação simula a implementação de uma Todo List(lista de tarefas) na parte do Back-End, onde realiza-se o CRUD (Create, Read, Update, Delete) dos todos.
 
 Os objetivos principais foram treinar e aprimorar conceitos bases do NodeJS com a Biblioteca Express, como `criação de rotas`, `recebimento e envio de parâmetros do tipo Route, Query e Body` e `utilização de Middlewares`.
 
